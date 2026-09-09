@@ -1,0 +1,5 @@
+{
+  "name": "PathoLab Portal",
+  "description": "Sistema de gestión de laboratorio de patología para registro de pacientes, seguimiento de muestras e impresión de etiquetas.",
+  "requestFramePermissions": []
+}
